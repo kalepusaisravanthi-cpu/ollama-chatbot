@@ -47,14 +47,9 @@ ollama --version
 
 ## 📦 Installation
 
-### Step 1: Clone the Repository
 
-```bash
-git clone https://github.com/your-username/ollama-chatbot.git
-cd ollama-chatbot
-```
 
-### Step 2: Create a Virtual Environment (Recommended)
+### Step 1: Create a Virtual Environment (Recommended)
 
 Windows:
 
@@ -70,7 +65,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### Step 3: Install Dependencies
+### Step 2: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
